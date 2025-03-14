@@ -10,14 +10,14 @@ Frameworks & Technologies: Flask RESTful, Unity (AR)
 Outils: Git, GitHub
 
 ## 🚀 Projets principaux
-### Shell personnalisé (C)
+### Simple Shell (C)
 Développement d'un shell simplifié en C capable d'exécuter des commandes système basiques, de gérer les processus et de rediriger les entrées/sorties.
 
-### Plateforme d'hébergement (style Airbnb)
+### HBnB (copie Airbnb)
 Application web développée avec Python et Flask RESTful permettant:
 - La gestion des utilisateurs et authentification
 - La publication et recherche d'hébergements
 - Un système de réservation et d'évaluation
 
-### Projet de Réalité Augmentée (Unity/C#)
+### Rubikscape (Projet de fin d'année sur Unity/C#)
 Application de réalité augmentée développée avec Unity, explorant l'interaction entre objets virtuels et environnement réel.
