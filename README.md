@@ -20,4 +20,4 @@ Application web développée avec Python et Flask RESTful permettant:
 - Un système de réservation et d'évaluation
 
 ### Rubikscape (Projet de fin d'année sur Unity/C#)
-Application de réalité augmentée développée avec Unity, explorant l'interaction entre objets virtuels et environnement réel.
+Jeu de réalité augmentée développée avec Unity ayant pour support un Rubik's Cube où chaque face possède un segment de chemin. Le but est de tourner le Rubik's Cube afin d'aligner les chemins pour relier 2 points. Le niveau est validé lorsqu'un personnage fait la traversée entre les deux points pour valider la conformité du chemin.
