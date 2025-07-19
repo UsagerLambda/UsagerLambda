@@ -5,7 +5,7 @@ Je suis à l'aise en anglais, ce qui me permet de collaborer efficacement dans u
 
 ### 💻 Compétences techniques
 
-### 🖥️ Langages de programmation
+## 🖥️ Langages de programmation
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -15,7 +15,7 @@ Je suis à l'aise en anglais, ce qui me permet de collaborer efficacement dans u
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white)
 
-### ⚙️ Frameworks & Technologies
+## ⚙️ Frameworks & Technologies
 
 ![Flask RESTful](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -26,7 +26,7 @@ Je suis à l'aise en anglais, ce qui me permet de collaborer efficacement dans u
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-### 🛠️ Outils
+## 🛠️ Outils
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
